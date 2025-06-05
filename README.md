@@ -58,8 +58,8 @@ This project is a **comprehensive sales analytics and reporting tool** built wit
 ## 📎 Example Output
 
 > **Preview:**  
-> ![PDF Preview](https://user-images.githubusercontent.com/placeholder/pdf-preview.png)  
-> *(Replace with a screenshot of your PDF report)*
+> ![PDF Preview](t1.PNG)
+> 
 
 **[Download the latest report &raquo;](Sales_Report_2024.pdf)**
 
